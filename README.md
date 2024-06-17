@@ -60,12 +60,10 @@ This project is an online platform for a tourist guide, allowing users to explor
 
 ### Technologies
 
-- **Frontend**: JQuery, Vue.js, React, or Angular (CSS framework optional).
-- **Backend**: JAX-RS or SparkJava.
+- **Frontend**: Vue.js
+- **Backend**: JAX-RS 
 
-This project is hosted on GitHub and is designed to provide a comprehensive and user-friendly platform for exploring and managing tourist destinations and articles.
 
----
 
-Feel free to explore the project, contribute, or provide feedback. Happy coding!
+
 
